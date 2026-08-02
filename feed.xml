@@ -5,5 +5,10 @@
     <link>https://open.spotify.com/show/03408rmOGfDDu1yv0RpMhK</link>
     <description>פודקאסט לאומנות</description>
     <language>he</language>
+    <item>
+      <title>התעצמות חיל הים הישראלי.mp3</title>
+      <enclosure url="https://drive.google.com/uc?id=1ZaFa8ktizIbvgdMWxOX8cEU_VGtB9jOd&export=download" type="audio/mpeg"/>
+      <pubDate>2026-04-21T07:31:58.000Z(now; "ddd, DD MMM YYYY HH:mm:ss ZZ")</pubDate>
+    </item>
   </channel>
 </rss>
