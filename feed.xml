@@ -2,15 +2,8 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>לאומנות</title>
-    <link>https://open.spotify.com/show/03408rmOGfDDu1yv0RpMhK</link>
+    <link>https://open.spotify.com/show/03408rmOGFDDu1yv0RpMhK</link>
     <description>פודקאסט לאומנות</description>
     <language>he</language>
-    <item>
-      <title>קמפיין הסנקציות ארוכות הטווח נמשך.mp3</title>
-      <enclosure url="https://drive.google.com/uc?id=134XfRDIV0GLBTO9y_SZInQQVjSre2zcv&export=download" type="audio/mpeg"/>
-      <pubDate>"Thu, 30 Jul 2026 11:50:46 +0300"</pubDate>
-    </item>
-  <item><title>המלחמה בישראל | היום ה-1,029.mp3</title><enclosure url="https://drive.google.com/uc?id=15jEHPol6xd3RHMf5GUEwaiIiooheoXbE&export=download" type="audio/mpeg"/><pubDate>"Thu, 30 Jul 2026 14:23:10 +0300"</pubDate></item><item><title>המלחמה בישראל | ימים 1,030-1,032.mp3</title><enclosure url="https://drive.google.com/uc?id=1B5ciZYJKrQGAMxZVtNiIDVhbqQTZ5Kws&export=download" type="audio/mpeg"/><pubDate>"Sun, 02 Aug 2026 15:02:03 +0300"</pubDate></item><item><title>המלחמה בישראל | ימים 985-986.mp3</title><enclosure url="https://drive.google.com/uc?id=1EjH4g0vSYG3D1WOkb-Q02ucy4bO4I7LU&export=download" type="audio/mpeg"/><pubDate>"Wed, 17 Jun 2026 15:48:21 +0300"</pubDate></item><item><title>המלחמה בישראל | ימים 1,027-1,028.mp3</title><enclosure url="https://drive.google.com/uc?id=1tz-PBCd7kzjHxyOANjp7fiEh-KCLNqov&export=download" type="audio/mpeg"/><pubDate>"Wed, 29 Jul 2026 12:51:16 +0300"</pubDate>\n<item><item><title>קמפיין הסנקציות ארוכות הטווח נמשך.mp3</title><enclosure url="https://drive.google.com/uc?id=1PVcb_-X5Z3nwwehmLc0ko9R_iWqATgN7&export=download" type="audio/mpeg"/><pubDate>"Thu, 30 Jul 2026 11:50:46 +0300"</pubDate>\n<item><item><title>המלחמה בישראל | היום ה-1,029.mp3</title><enclosure url="https://drive.google.com/uc?id=18zZeGc6LVsFnyatYL_Is2mOJy9MbyRxt&export=download" type="audio/mpeg"/><pubDate>"Thu, 30 Jul 2026 14:23:10 +0300"</pubDate>\n
-<item><item><title>המלחמה בישראל | ימים 1,030-1,032.mp3</title><enclosure url="https://drive.google.com/uc?id=1TbVIqHjA0xWDafKlSa28bWg5xwRTvvBm&export=download" type="audio/mpeg"/><pubDate>"Sun, 02 Aug 2026 15:02:03 +0300"</pubDate>\n
-<item></channel>
+  </channel>
 </rss>
