@@ -1,1 +1,14 @@
-replace(toString(base64ToBuffer(22.data.content)); "</channel>"; concat("<item><title>"; 8.name; "</title><enclosure url=\""; 8.webContentLink; "\" type=\"audio/mpeg\"/><pubDate>"; formatDate(now; "ddd, DD MMM YYYY HH:mm:ss ZZ"); "</pubDate></item></channel>"))
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>לאומנות</title>
+    <link>https://open.spotify.com/show/03408rmOGfDDu1yv0RpMhK</link>
+    <description>פודקאסט לאומנות</description>
+    <language>he</language>
+    <item>
+      <title>קמפיין הסנקציות ארוכות הטווח נמשך.mp3</title>
+      <enclosure url="https://drive.google.com/uc?id=1GIxuqozhxdglsqts6-z3xyDBidA3QP9x&export=download" type="audio/mpeg"/>
+      <pubDate>"211, 30 Jul 2026 11:50:46 +03:00"</pubDate>
+    </item>
+  </channel>
+</rss>
