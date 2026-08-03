@@ -5,6 +5,9 @@
     <link>https://open.spotify.com/show/03408rmOGFDDu1yv0RpMhK</link>
     <description>פודקאסט לאומנות</description>
     <language>he</language>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/768px-Test-Logo.svg.png"/>
     <item>
       <title>המלחמה בישראל | ימים 837-838.mp3</title>
       <enclosure url="https://drive.google.com/uc?id=1oJz_4AFxOIgTrWhemM-gH047Q3mkQAQQ&amp;export=download" type="audio/mpeg"/>
