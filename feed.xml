@@ -8,23 +8,6 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/768px-Test-Logo.svg.png"/>
-    <item>
-      <title>המלחמה בישראל | ימים 837-838.mp3</title>
-      <enclosure url="https://drive.google.com/uc?id=1oJz_4AFxOIgTrWhemM-gH047Q3mkQAQQ&amp;export=download" type="audio/mpeg"/>
-      <pubDate>Wed, 21 Jan 2026 20:30:48 +0200</pubDate>
-    </item>
-    <item>
-      <title>המלחמה בישראל | היום ה-843.mp3</title>
-      <enclosure url="https://drive.google.com/uc?id=1UOwCnRHJIanhK9GpWYbmc0Ft9RcRqWEC&amp;export=download" type="audio/mpeg"/>
-      <pubDate>Mon, 26 Jan 2026 15:03:28 +0200</pubDate>
-    </item>
-  <item><title>המלחמה בישראל | ימים 866-867.mp3</title><enclosure url="https://drive.google.com/uc?id=1Vj2lktvUGZwLL7wjrrN1rBVElIr7nXb8&export=download" type="audio/mpeg"/><pubDate>"Thu, 19 Feb 2026 17:58:47 +0200"</pubDate>
-</item>
-<item><title>המלחמה בישראל | ימים 870-871.mp3</title><enclosure url="https://drive.google.com/uc?id=1OZ5FoOfbg995IskGSbZXIj45xqLpyABk&export=download" type="audio/mpeg"/><pubDate>Mon, 23 Feb 2026 16:43:47 +0200</pubDate>
-</item>
-<item><title>המלחמה בישראל | היום ה-917</title><enclosure url="https://lh3.googleusercontent.com/d/1Si1172K6TTqO2n2DPISsQ5-p3tiDMU7M" type="audio/mpeg"/><pubDate>Fri, 10 Apr 2026 12:31:03 +0300</pubDate>
-</item>
-<item><title>התעצמות חיל הים הישראלי.mp3</title><enclosure url="https://lh3.googleusercontent.com/d/1nGg6bn7qrfV4qdHFdLlBT9wGdvSX43Ug" type="audio/mpeg"/><pubDate>Tue, 21 Apr 2026 10:31:58 +0300</pubDate></item><item><title>סיפוח עזה, ברית עם אפריקה, והגלובליזציה העולמית..mp3</title><enclosure url="https://lh3.googleusercontent.com/d/1izdTlv_mS6g0O4EI0KoNHtoNNkCz6gz8" type="audio/mpeg"/><pubDate>Sun, 26 Apr 2026 14:57:55 +0300</pubDate></item><item><title>המלחמה בישראל | ימים 1,027-1,028.mp3</title><enclosure url="https://lh3.googleusercontent.com/d/1aiF4lmuYmlONmUtYT_x5EFa5WkvSAtxN" type="audio/mpeg"/><pubDate>Wed, 29 Jul 2026 12:51:16 +0300</pubDate></item><item><title>קמפיין הסנקציות ארוכות הטווח נמשך.mp3</title><enclosure url="https://lh3.googleusercontent.com/d/1S-yVNZB4XRq-rSwPVFDa9bgOsyeYaNUU" type="audio/mpeg"/><pubDate>Thu, 30 Jul 2026 11:50:46 +0300</pubDate></item><item><title>המלחמה בישראל | היום ה-1,029.mp3</title><enclosure url="https://lh3.googleusercontent.com/d/1YlnzTcmUbU6vjib6-OZ6lSAJ6O6Q2Sxd" type="audio/mpeg"/><pubDate>Thu, 30 Jul 2026 14:23:10 +0300</pubDate></item><item><title>המלחמה בישראל | ימים 1,030-1,032.mp3</title><enclosure url="https://drive.google.com/uc?id=1Zl3kvFlgrvry4JyVbAaPOry72-kiLdXS&export=download" type="audio/mpeg"/><pubDate>Sun, 02 Aug 2026 15:02:03 +0300</pubDate>
-</item>
+
 </channel>
 </rss>
