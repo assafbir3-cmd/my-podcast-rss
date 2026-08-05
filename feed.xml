@@ -7,6 +7,8 @@
     <language>he</language>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:author>Assaf</itunes:author>
+    <itunes:email>assafbir3@gmail.com</itunes:email>
     <itunes:image href="https://lh3.googleusercontent.com/d/1_xLz9DrvYha5NAKDBerFTp-83rQy6l6X"/>
     
     <managingEditor>assafbir3@gmail.com (Assaf)</managingEditor>
