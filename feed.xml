@@ -7,10 +7,13 @@
     <language>he</language>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://lh3.googleusercontent.com/d/1_xLz9DrvYha5NAKDBerFTp-83rQy6l6X"/>    <itunes:owner>
+   <itunes:image href="https://lh3.googleusercontent.com/d/1_xLz9DrvYha5NAKDBerFTp-83rQy6l6X"/>
+    
+    <managingEditor>assafbir3@gmail.com (Assaf)</managingEditor>
+    <itunes:owner>
+    <itunes:name>Assaf</itunes:name>
     <itunes:email>assafbir3@gmail.com</itunes:email>
     </itunes:owner>
-
     
 <item><title>אברהם שטרן ושחרור ישראל.mp3</title><enclosure url="https://drive.google.com/uc?id=1v8rC8WnIstdFxOCFVQ-H48l5JSUHUu0S&amp;export=download" type="audio/mpeg"/><pubDate>Thu, 08 Dec 2016 19:41:28 +0200</pubDate>
 </item>
